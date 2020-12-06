@@ -1,0 +1,6 @@
+namn = input("vad heter du?")
+hår = input ("vad är din hårfärg?")
+månad = input ("vilken är din favo månad?")
+print( "hej " +  namn)
+print( "ditt hår är " + hår)
+print( "din favo månad är " + månad) 
